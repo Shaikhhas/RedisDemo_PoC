@@ -11,7 +11,7 @@ Each article is enriched with:
 
 ## Project Objective
 
-Provide a global view of political developments by consolidating multilingual news updates into a searchable, interactive map. News is streamed from multiple sources, enriched with NLP, and clustered using vector embeddings.
+Provide a global view of news activity and updates into a searchable, interactive map. News is streamed from multiple sources from Telegram, enriched with NLP, and clustered using vector embeddings.
 
 ---
 
