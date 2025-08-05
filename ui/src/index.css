@@ -1,0 +1,14 @@
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.country-tooltip {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 2px 6px;
+  font-size: 12px;
+  font-weight: bold;
+}

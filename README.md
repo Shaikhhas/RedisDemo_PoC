@@ -63,4 +63,29 @@ Provide a global view of news activity and updates into a searchable, interactiv
 - HuggingFace Transformers (all-MiniLM-L6-v2)
 - Telethon
 
+
 ---
+
+## Demo
+
+![Demo](./assets/RedisDemo_PoC.gif)
+
+---
+
+## Submission Info
+
+Submitted for the [Redis AI Challenge 2025](https://dev.to/challenges/redis-2025-07-23)
+
+---
+
+## Getting Started
+
+- [`scraper/README.md`](./scraper/README.md)
+- [`api/README.md`](./api/README.md)
+- [`ui/README.md`](./ui/README.md)
+
+---
+
+## License
+
+MIT — feel free to build on top.
